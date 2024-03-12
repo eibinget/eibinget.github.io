@@ -12,7 +12,7 @@ title                    : "Tobias Eibinger"
 title_separator          : "-"
 name                     : &name "Tobias Eibinger"
 description              : &description "personal description"
-url                      : https://eibinget.github.io/tobias-eibinger.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eibinget.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eibinget/tobias-eibinger.github.io"
 
