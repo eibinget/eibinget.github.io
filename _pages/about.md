@@ -24,8 +24,6 @@ Recently, I have developed a growing interest in examining gender-related aspect
 - **Central European University (CEU), Vienna** - Studying causal inference, enhancing my analytical toolkit to better dissect the cause-and-effect relationships in economics.
 - **Spatial Economics Department, VU Amsterdam** - 4-month research stay, collaborating with leading experts in the field of spatial and urban economics.
 
-## About Me
-
-Driven by curiosity and a passion for solving complex problems, my academic journey is a blend of rigorous research, collaborative projects, and continuous learning. I believe in leveraging economic insights to foster sustainable and inclusive growth, making a tangible impact on society and the environment.
+## Collab
 
 For inquiries or collaboration opportunities, please contact me at [tobias.eibingerl@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
