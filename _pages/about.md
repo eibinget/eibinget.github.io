@@ -11,11 +11,7 @@ Hello! I am a final-year PhD candidate in Economics at the University of Graz, A
 
 ### Research Interests
 
-My research orbits around these core areas:
-
-1. **Environmental Economics** - Focusing on evaluating transport-related policies and their implications for sustainable development.
-2. **Econometrics** - Delving into time-series analysis, macro-panel studies, and causal difference-in-differences (diff-in-diff) designs to uncover underlying economic patterns and relationships.
-3. **Spatial Data Analysis** - Exploring the geographical dimensions of economic activities and their socio-economic impacts.
+My research orbits around these core areas. **Environmental Economics** with a focus on evaluating transport-related policies and their implications for sustainable development. **Econometrics** - especially time-series analysis, macro-panel studies, and causal difference-in-differences (diff-in-diff) designs to uncover underlying economic patterns and relationships. **Spatial Data Analysis** - exploring the geographical dimensions of economic activities and their socio-economic impacts.
 
 Recently, I have developed a growing interest in examining gender-related aspects within distance-related (spatial) economics, aiming to contribute to a more inclusive and equitable understanding of spatial economic dynamics.
 
