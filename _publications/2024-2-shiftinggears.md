@@ -1,7 +1,7 @@
 ---
 title: "Shifting Gears? The Impact of Austria’s Transport Policy Mix on CO2 Emissions from Passenger Cars"
-collection: workingpapers
-permalink: /workingpaper/2024-shiftinggears
+collection: publications
+permalink: /publication/2024-2-shiftinggears
 excerpt: ''
 date: 2024-01-03
 venue: 'Working Paper'
