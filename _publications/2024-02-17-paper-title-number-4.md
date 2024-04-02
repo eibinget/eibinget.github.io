@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Shifting Gears? The Impact of Austria's Transport Policy Mix on CO2 Emissions from Passenger Cars"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-2-shiftinggears
+excerpt: ''
+date: 2024-01-04
+venue: 'Working Paper'
+paperurl: 'http://eibinget.github.io/files/sg.pdf'
+citation: 'Eibinger, T., Manner, H., and Steininger, K. (2024). &quot;hifting Gears? The Impact of Austria's Transport Policy Mix on CO2 Emissions from Passenger Cars.&quot; <i>Working Paper</i>. (2024).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Passenger transport plays a crucial role in achieving carbon-neutrality. While a switch to zero-emission vehicles is a crucial part in this process, policy makers likely have to resort to a differentiated mix of complementary policy measures to achieve global targets on carbon-neutrality. To help policy makers design effective measures, we analyse the effect of environmental policies on CO2 emissions from passenger cars in Austria from 1965-2019. In a first step, we propose a novel environmental policy stringency index tailored to the Austrian transport sector for the period 1950-2019. In a second step, we analyse the effect of different policies on transport-related CO2 emissions in a structural vector autoregressive model. This allows us to control for possible interdependencies between the policies and remaining variables. We find that policies targeting the investment decision to buy new cars reduced emissions in Austria more significantly than policies targeting the usage of cars. The engine-related insurance tax quantitatively shows the strongest impact on emissions, while the standard fuel consumption tax shows the strongest statistical significance.
