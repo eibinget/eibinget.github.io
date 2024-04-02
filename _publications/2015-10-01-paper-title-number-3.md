@@ -1,11 +1,12 @@
 ---
-title: "Shifting Gears."
+title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Working Paper'
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
-venue: 'Working Paper'
-paperurl: 'http://eibinget.github.io/files/sg.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-Passenger transport plays a crucial role in achieving carbon-neutrality. While a switch to zero-emission vehicles is a crucial part in this process, policy makers likely have to resort to a differentiated mix of complementary policy measures to achieve global targets on carbon-neutrality. To help policy makers design effective measures, we analyse the effect of environmental policies on CO2 emissions from passenger cars in Austria from 1965-2019. In a first step, we propose a novel environmental policy stringency index tailored to the Austrian transport sector for the period 1950-2019. In a second step, we analyse the effect of different policies on transport-related CO2 emissions in a structural vector autoregressive model. This allows us to control for possible interdependencies between the policies and remaining variables. We find that policies targeting the investment decision to buy new cars reduced emissions in Austria more significantly than policies targeting the usage of cars. The engine-related insurance tax quantitatively shows the strongest impact on emissions, while the standard fuel consumption tax shows the strongest statistical significance.
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
