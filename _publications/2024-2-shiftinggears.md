@@ -3,7 +3,7 @@ title: "Shifting Gears? The Impact of Austria’s Transport Policy Mix on CO2 Em
 collection: publications
 permalink: /publication/2024-2-shiftinggears
 excerpt: ''
-date: 2024-01-03
+date: 2024-01-04
 venue: 'Working Paper'
 paperurl: [Download paper here](/files/ShiftingGears.pdf)
 citation: 'Eibinger, T., Manner, H., and Steininger, K. (2024). &quot;Shifting Gears? The Impact of Austria’s Transport Policy Mix on CO2 Emissions from Passenger Cars.&quot; <i>Working Paper</i>.'
