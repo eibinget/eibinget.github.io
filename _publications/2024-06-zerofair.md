@@ -3,9 +3,9 @@ title: "Zero fare, cleaner air? The causal effect of Luxembourg's free public tr
 collection: publications
 permalink: /publication/2024-06-zerofair
 excerpt: ''
-date: 2024-01-06
+date: 2024-01-07
 venue: 'Working Paper'
-paperurl: 'https://eibinget.github.io/files/zerofair_0624.pdf'
+paperurl: 'https://eibinget.github.io/files/zerofair_0724.pdf'
 citation: "Eibinger, T. and Sachintha, F. (2024). \"Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions\" <i>Working Paper</i>."
 ---
 
