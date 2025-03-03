@@ -15,7 +15,10 @@ My research orbits around these core areas:
 2. **Econometrics** - Time-series analysis, large-N and large-T panels, causal difference-in-differences designs. My goal is to provide evidence-based policy analysis and recommendations.
 3. **Spatial Data Analysis** - Exploring the geographical dimensions of economic activities and their socio-economic impacts.
 
-Recently, I have developed a growing interest in examining gender-related aspects within spatial economics, aiming to contribute to a more inclusive and equitable understanding of spatial economic dynamics.
+I recently received a two-year research grant from the Austrian Academy of Sciences (ÖAW) for the project:
+**BRidging Inequality in Distance and GEnder: Commuting and Child Penalty in the Austrian Labor Market**
+
+It is together with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). Through this project, we aim to provide empirical evidence on how gender commuting gaps following childbirth contribute to the child penalty in the Austrian labor market. We highlight the career adjustments mothers make to reduce commute times, often at the expense of earnings. Moreover, we explore how improved childcare availability can mitigate these disparities.
 
 ### Academic Visits
 
@@ -24,4 +27,4 @@ Recently, I have developed a growing interest in examining gender-related aspect
 
 ## Collaborate
 
-Happy to collaborate, please contact me at [tobias.eibingerl@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
+Happy to collaborate, please contact me at [tobias.eibinger@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
