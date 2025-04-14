@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in Economics at the University of Graz, Austria.
+I am a Postdoctoral Researcher at the University of Graz. I completed my PhD in Economics here in April 2025 with a dissertation titled Evaluating Emission Reductions in the Transport Sector: Empirical Contributions.
 
 My research orbits around these core areas:
 
