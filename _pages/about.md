@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="margin-top: 1.5rem;"></div>
 
 I am an applied economist working in urban economics, with research interests in environmental economics and labor economics. My work combines these fields to study how transport systems, spatial constraints, and public policies shape environmental outcomes and labor market behavior.
 
