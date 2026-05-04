@@ -7,24 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the University of Graz. I completed my PhD in Economics here in April 2025 with a dissertation titled Evaluating Emission Reductions in the Transport Sector: Empirical Contributions.
+I am an applied economist working in urban economics, with research interests in environmental economics and labor economics. My work combines these fields to study how transport systems, spatial constraints, and public policies shape environmental outcomes and labor market behavior.
 
-My research orbits around these core areas:
+Currently, I am a Postdoctoral Researcher in Economics at the University of Graz, where I received my PhD in Economics in 2025. You can find my dissertation [Evaluating Emission Reductions in the Transport Sector: Empirical Contributions](/files/diss.pdf) here.
 
-1. **Environmental Economics** - With a focus on transport-related policies and their implications for emission reductions.
-2. **Econometrics** - Time-series analysis, large-N and large-T panels, causal difference-in-differences designs. My goal is to provide evidence-based policy analysis and recommendations.
-3. **Spatial Data Analysis** - Exploring the geographical dimensions of economic activities and their socio-economic impacts.
+In my empirical research, I am particularly interested in policy evaluation. Methodologically, I work with causal inference designs, panel data methods, and time series to study how policies affect environmental and labor market outcomes across space and population groups.
 
-I recently received a two-year research grant from the Austrian Academy of Sciences (ÖAW) for the project:
-**BRidging Inequality in Distance and GEnder: Commuting and Child Penalty in the Austrian Labor Market**
+### Current Research
 
-It is together with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). Through this project, we aim to provide empirical evidence on how gender commuting gaps following childbirth contribute to the child penalty in the Austrian labor market. We highlight the career adjustments mothers make to reduce commute times, often at the expense of earnings. Moreover, we explore how improved childcare availability can mitigate these disparities.
+I currently lead project BRidging Inequality in Distance and GEnder: Commuting and Child Penalty in the Austrian Labor Market (funded by the Austrian Academy of Sciences). The project examines whether commuting constraints after childbirth contribute to gender gaps in labor market outcomes in Austria. It is together with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). 
 
-### Academic Visits
 
-- **Central European University (CEU), Vienna** - Studying causal inference, enhancing my analytical toolkit to better dissect the cause-and-effect relationships in economics.
-- **Spatial Economics Department, VU Amsterdam** - 4-month research stay, learning from leading experts in the field of spatial and urban economics.
+### Collaboration
 
-## Collaborate
+Outside of Graz, I am collaborating with researchers at the Vrije Universiteit Amsterdam, Copenhagen Business School, and Central European Universtiy. 
 
-Happy to collaborate, please contact me at [tobias.eibinger@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
+## Contact
+
+Please contact me at [tobias.eibinger@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
