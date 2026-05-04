@@ -19,10 +19,6 @@ In my empirical research, I am particularly interested in policy evaluation. Met
 I currently lead the project [Bridging Inequality in Distance and Gender: Commuting and Child Penalty in the Austrian Labor Market](https://bridgeccp.uni-graz.at/en/) (funded by the Austrian Academy of Sciences). The project examines whether commuting constraints after childbirth contribute to gender gaps in labor market outcomes in Austria. It is joint work with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). 
 
 
-### Collaboration
-
-Outside of Graz, I am collaborating with researchers at the Vrije Universiteit Amsterdam, Copenhagen Business School, and Central European Universtiy. 
-
 ## Contact
 
-Please contact me at [tobias.eibinger@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
+For questions, research discussions, or potential collaborations, please contact me at [tobias.eibinger@uni-graz.at](mailto:tobias.eibinger@uni-graz.at).
