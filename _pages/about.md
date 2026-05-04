@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="margin-top: 1.5rem;"></div>
 
-I am an applied economist working in urban economics, with research interests in environmental economics and labor economics. My work combines these fields to study how transport systems, spatial constraints, and public policies shape environmental outcomes and labor market behavior.
+I am an applied economist working in urban economics, with research interests in environmental economics, labor economics, and gender inequalities. In my work, I combine these fields to study how transport systems, spatial constraints, and public policies shape environmental outcomes and labor market behavior.
 
 Currently, I am a Postdoctoral Researcher in Economics at the University of Graz, where I received my PhD in Economics in 2025. You can find my dissertation *Evaluating Emission Reductions in the Transport Sector: Empirical Contributions* [here](/files/diss.pdf).
 
