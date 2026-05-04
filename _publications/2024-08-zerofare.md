@@ -1,5 +1,5 @@
 ---
-title: "Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions"
+title: "Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on transport emissions"
 collection: publications
 permalink: /publication/2024-08-zerofare
 excerpt: ''
