@@ -15,7 +15,7 @@ In my empirical research, I am particularly interested in policy evaluation. Met
 
 ### Current Research
 
-I currently lead project BRidging Inequality in Distance and GEnder: Commuting and Child Penalty in the Austrian Labor Market (funded by the Austrian Academy of Sciences). The project examines whether commuting constraints after childbirth contribute to gender gaps in labor market outcomes in Austria. It is together with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). 
+I currently lead project *BRidging Inequality in Distance and GEnder: Commuting and Child Penalty in the Austrian Labor Market* (funded by the Austrian Academy of Sciences). The project examines whether commuting constraints after childbirth contribute to gender gaps in labor market outcomes in Austria. It is together with Riccarda Rosenball (Uni Graz), Jos van Ommeren (VU Amsterdam), and Andrea Weber (CEU). 
 
 
 ### Collaboration
