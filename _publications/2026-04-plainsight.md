@@ -1,7 +1,7 @@
 ---
 title: "Hidden in Plain Sight: Occupational Structure and the Gender Wage Gap"
 collection: publications
-permalink: /publication/2024-08-zerofare
+permalink: /publication/2026-04-plainsight
 excerpt: ''
 date: 2026-01-04
 venue: 'Working Paper'
