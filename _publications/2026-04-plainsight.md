@@ -1,6 +1,7 @@
 ---
 title: "Hidden in Plain Sight: Occupational Structure and the Gender Wage Gap"
 collection: publications
+pub_group: working_paper
 permalink: /publication/2026-04-plainsight
 excerpt: ''
 date: 2026-01-04
