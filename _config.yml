@@ -21,7 +21,7 @@ repository               : "eibinget/eibinget.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "te_portrait.JPG"
+  avatar           : "te_portrait.jpg"
   name             : "Tobias Eibinger"
   pronouns         : # example: "she/her"  
   bio              : "PhD"
